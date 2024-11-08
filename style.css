@@ -1,0 +1,25 @@
+
+/* Editing the wrapped background */
+.wrapper{
+    background-color: burlywood;
+    max-width: 500px;
+    padding: 40px 40px;
+    
+}
+/* Editing the text and formating */
+input[type="text"] {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+/* Editing the body */
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 20%;
+    text-align: center;
+    background-image: url("Avian-Pre-Visit-Questionnaire-Form.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
